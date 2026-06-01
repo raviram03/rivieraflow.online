@@ -3872,8 +3872,19 @@ input, select, textarea {
 
 /* Intro */
 
-	#intro {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/Jets.png') !important;
+	/* Intro Section Update */
+#intro {
+    background-image: linear-gradient(rgba(31, 23, 50, 0.85), rgba(31, 23, 50, 0.85)), url('../images/Jets.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 6em 0;
+    text-align: center;
+}
+
+#intro h1 {
+    font-size: 3.5em;
+    color: #ffffff;
 }
 
 		#intro p {
