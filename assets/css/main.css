@@ -3873,7 +3873,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../images/Jets.png') !important;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('../../images/Jets.png') !important;
     background-size: cover !important;
     background-position: center !important;
     background-attachment: fixed !important;
