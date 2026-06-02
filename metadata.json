@@ -1,0 +1,6 @@
+{
+  "name": "Riviera Flow",
+  "description": "Bespoke private concierge platform for private aviation and horological asset procurement, custom-branded for Monaco, London, and Geneva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
